@@ -1,2 +1,2 @@
-# MLregression
-A linear regression and Multi linear regression models from scratch with R 
+# Regression-Project
+Mahmoud Essam - Abdallah Gowely - Muhammed Gaber - Ali Elsayd - Zyad ashraf - Ziad Ashraf - Safy fathy - Bishoy Ayad- Abdelrahman Ashraf - Muhammed Hamdi
